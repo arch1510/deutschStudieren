@@ -1,0 +1,36 @@
+.bluev-text {
+  color: blueviolet;
+}
+
+.blue-text {
+  color: blue;
+}
+
+.royalblue-text {
+  color: royalblue;
+}
+
+.centered {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -100px;
+}
+.lucidasans {
+  font-family: Lucida Sans;
+}
+
+.cursive {
+    font-family: cursive;
+  }
+
+.fifty {
+  font-size: 50px;
+}
+.hundred {
+  font-size: 100px;
+}
+.thirty {
+  font-size: 30px;
+}
