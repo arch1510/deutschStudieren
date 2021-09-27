@@ -34,3 +34,22 @@
 .thirty {
   font-size: 30px;
 }
+.image-1000{
+  width: 1000px;
+}
+.image-fit{
+  width: fit-content;
+}
+.border{
+  border-width: 10px;
+  border-radius: 50%;
+  border-style: groove;
+  border-color: burlywood;
+}
+div{
+  background-color: burlywood;
+}
+h1{
+  background-color: lightgray;
+  margin: 0;
+}
