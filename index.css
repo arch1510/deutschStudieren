@@ -47,9 +47,21 @@
   border-color: burlywood;
 }
 div{
-  background-color: burlywood;
+  background-color: lightsteelblue;
 }
 h1{
   background-color: lightgray;
   margin: 0;
+}
+.margin{
+  margin: 40px 40px 40px 40px;
+}
+.padding{
+  padding: 10px 20px 20px 10px;
+}
+.paddingem{
+padding: 1.5em;
+}
+body{
+  background-color: maroon;
 }
