@@ -1,13 +1,13 @@
 .bluev-text {
-  color: blueviolet;
+  color: whitesmoke;
 }
 
 .blue-text {
-  color: blue;
+  color:whitesmoke;
 }
 
 .royalblue-text {
-  color: royalblue;
+  color: whitesmoke;
 }
 
 .centered {
@@ -22,8 +22,8 @@
 }
 
 .cursive {
-    font-family: cursive;
-  }
+  font-family: cursive;
+}
 
 .fifty {
   font-size: 50px;
@@ -34,39 +34,60 @@
 .thirty {
   font-size: 30px;
 }
-.image-1000{
+.image-1000 {
   width: 1000px;
 }
-.image-fit{
+.image-fit {
   width: fit-content;
 }
-img{
+img {
   width: 345px;
   height: 245px;
 }
-.border{
+.border {
   border-width: 10px;
   border-radius: 50%;
   border-style: groove;
   border-color: burlywood;
 }
-div{
-  background-color: lightsteelblue;
+div {
+  background-color: #09A7A1;
+  margin: auto;
 }
-h1{
-  background-color: lightgray;
+h1 {
+  background-color: #09A7A1;
   margin: 0;
   text-align: center;
 }
-.margin{
+.margin {
   margin: 40px 40px 40px 40px;
 }
-.padding{
+.padding {
   padding: 10px 20px 20px 10px;
 }
-.paddingem{
-padding: 1.5em;
+.paddingem {
+  padding: 1.5em;
 }
-body{
-  background-color: maroon;
+body {
+  background-color: #09A7A1;
+}
+a:hover {
+  color: brown;
+}
+img {
+  position: relative;
+  left: 650px;
+}
+h1 {
+}
+#left {
+  float: left;
+  width: 50%;
+}
+#right {
+  float: right;
+  width: 50%;
+}
+.center{
+text-align: center;
 }
